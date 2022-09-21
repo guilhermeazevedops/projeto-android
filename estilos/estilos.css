@@ -78,7 +78,6 @@ nav {
     background-color: var(--cor5);
     box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.616);
     padding: 10px;
-    
 }
 
 
@@ -88,8 +87,6 @@ nav a{
     padding:10px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-   
-    
 }
 
 nav a:hover{
